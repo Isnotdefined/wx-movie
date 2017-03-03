@@ -1,0 +1,9 @@
+<import src="../posts/post-item/post-item-template.wxml"/>
+<view class="container">
+    <image class="user-avatar" src="/images/boy.png"></image>
+    <text class="user-name">hello,2017</text>
+    <view class="moto-container" bindtap="ontap">
+        <text class="moto">小程序</text>
+    </view>
+</view>
+    
